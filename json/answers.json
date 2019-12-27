@@ -1,0 +1,54 @@
+{
+	"Type": "keyboard",
+	"Buttons": [{
+		"Columns": 3,
+		"Rows": 1,
+		"Text": "<br><font color=\"#494E67\"><b>0</b></font>",
+		"TextSize": "large",
+		"TextHAlign": "center",
+		"TextVAlign": "middle",
+		"ActionType": "reply",
+		"ActionBody": "0",
+		"BgColor": "#f7bb3f"
+	}, {
+		"Columns": 3,
+		"Rows": 1,
+		"Text": "<br><font color=\"#494E67\"><b>1</b></font>",
+		"TextSize": "large",
+		"TextHAlign": "center",
+		"TextVAlign": "middle",
+		"ActionType": "reply",
+		"ActionBody": "1",
+		"BgColor": "#7eceea"
+	}, {
+		"Columns": 3,
+		"Rows": 1,
+		"Text": "<br><font color=\"#494E67\"><b>2</b></font>",
+		"TextSize": "large",
+		"TextHAlign": "center",
+		"TextVAlign": "middle",
+		"ActionType": "reply",
+		"ActionBody": "2",
+		"BgColor": "#f6f7f9"
+	}, {
+		"Columns": 3,
+		"Rows": 1,
+		"Text": "<br><font color=\"#494E67\"><b>3</b></font>",
+		"TextSize": "large",
+		"TextHAlign": "center",
+		"TextVAlign": "middle",
+		"ActionType": "reply",
+		"ActionBody": "3",
+		"BgColor": "#dd8157"
+	}, {
+		"Columns": 6,
+		"Rows": 1,
+		"Text": "<br><font color=\"#494E67\"><b>Привести пример</b></font>",
+		"TextSize": "large",
+		"TextHAlign": "center",
+		"TextVAlign": "middle",
+		"ActionType": "reply",
+		"ActionBody": "Привести пример",
+		"BgColor": "#dd8157"
+	}]
+}
